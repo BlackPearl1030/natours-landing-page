@@ -5,7 +5,7 @@ Designed by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/), t
 
 This website demonstrates the usage of advanced CSS.
 
-Frontend development of this landing page is a part of the course.
+Frontend development of this landing page is a part of the course. Live prieview is available [here](https://natours-chi.vercel.app/).
 
 ## Getting ready for development
 
